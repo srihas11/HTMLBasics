@@ -1,0 +1,7 @@
+1. Create new repository
+2. Code -> Copy 
+3. Open Terminal
+4. git clone https://github.com/srihas11/HTMLBasics.git
+5. git add -A
+6. git commit -m "Message"
+7. git push
