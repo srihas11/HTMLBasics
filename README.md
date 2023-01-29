@@ -5,12 +5,12 @@ Download the repository
 1. Create new repository
 2. Code -> Copy 
 3. Open Terminal
-4. git clone https://github.com/srihas11/HTMLBasics.git
+4. `git clone https://github.com/srihas11/HTMLBasics.git`
 
 Update
-1. git add -A
-2. git commit -m "Message"
-3. git push
+1. `git add -A`
+2. `git commit -m "Message"`
+3. `git push`
 
 ### Exercise
 1. Create 2 folders -  1st- folder - Table   2nd folder-Forms
