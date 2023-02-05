@@ -1,6 +1,7 @@
 # HTML Basics
 
-# Git (29/01/2023)
+## (29/01/23)
+### Git 
 Download the repository
 1. Create new repository
 2. Code -> Copy 
@@ -16,3 +17,20 @@ Update
  - [x] Create 2 folders -  1st- folder - Table   2nd folder-Forms
 - [x] In each folder, create a .html file.
 - [x] Push to github (3 commands)
+
+## (5/02/2023)
+### Windows Commands 
+1. `ls` - List of files in the folder
+2. `clear` - Clears previous commands
+3. `cd foldername` - Change folder
+
+###  Run Javascript
+1. Run -> start debugging -> Debugconsole
+2. Terminal -> `node filename.js`
+### Exercise 
+- [ ]  Create folders for lists (Unordered and Ordered)
+- [ ]  Try div tag
+- [ ]  Push
+- [ ]  Create a new repository (Github)[Javascript-Basics]
+- [ ]  Create folders for Variables,Text-Strings,Arrays,If-else statements,loops,functions,Objects
+- [ ]  Write one javascript file in each folder with corresponding feature.
