@@ -13,6 +13,6 @@ Update
 3. `git push`
 
 ### Exercise
-1. Create 2 folders -  1st- folder - Table   2nd folder-Forms
-2. In each folder, create a .html file.
-3. Push to github (3 commands)
+ - [x] Create 2 folders -  1st- folder - Table   2nd folder-Forms
+- [x] In each folder, create a .html file.
+- [x] Push to github (3 commands)
