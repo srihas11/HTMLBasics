@@ -28,9 +28,9 @@ Update
 1. Run -> start debugging -> Debugconsole
 2. Terminal -> `node filename.js`
 ### Exercise 
-- [ ]  Create folders for lists (Unordered and Ordered)
-- [ ]  Try div tag
-- [ ]  Push
-- [ ]  Create a new repository (Github)[Javascript-Basics]
+- [x]  Create folders for lists (Unordered and Ordered)
+- [x]  Try div tag
+- [x]  Push
+- [x]  Create a new repository (Github)[Javascript-Basics]
 - [ ]  Create folders for Variables,Text-Strings,Arrays,If-else statements,loops,functions,Objects
 - [ ]  Write one javascript file in each folder with corresponding feature.
