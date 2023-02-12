@@ -32,5 +32,7 @@ Update
 - [x]  Try div tag
 - [x]  Push
 - [x]  Create a new repository (Github)[Javascript-Basics]
-- [ ]  Create folders for Variables,Text-Strings,Arrays,If-else statements,loops,functions,Objects
-- [ ]  Write one javascript file in each folder with corresponding feature.
+- [ ]  Create folder CSSinHTML and JavascriptinHTML
+- [x]  Create folders for Variables,Text-Strings,Arrays,If-else statements,loops,functions,Objects
+- [x]  Write one javascript file in each folder with corresponding feature.
+- [ ]  Make a tic-tac-toe game.
